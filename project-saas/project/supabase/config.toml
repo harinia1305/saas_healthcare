@@ -1,0 +1,2 @@
+[functions.refund-pipeline]
+verify_jwt = false
